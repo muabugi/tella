@@ -1,0 +1,4 @@
+[services]
+
+  [services.start_bot]
+  start = "python start_bot.py"
